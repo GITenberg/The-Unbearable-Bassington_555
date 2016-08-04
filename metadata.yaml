@@ -1,0 +1,32 @@
+_repo: The-Unbearable-Bassington_555
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Saki
+    aliases:
+    - Munro, Hector Hugh
+    - Munro, H. H. (Hector Hugh)
+    birthdate: 1870
+    deathdate: 1916
+    gutenberg_agent_id: '152'
+    url: http://www.gutenberg.org/2009/agents/152
+    wikipedia: http://en.wikipedia.org/wiki/Saki
+description: Edwardian satirist Hector Hugh Munro produced a prodigious body of fiction,
+  plays, and other writing under the pen name Saki. The novella The Unbearable Bassington
+  follows the travails of Comus Bassington, a playboy and ne'er-do-well who is ultimately
+  sent away to the British Colonies by his long-suffering family.
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '1996-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '555'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Manners and customs -- Fiction'
+- GITenberg
+title: The Unbearable Bassington
+url: http://www.gutenberg.org/ebooks/555
